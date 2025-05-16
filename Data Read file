@@ -1,0 +1,60 @@
+# 📊 Amazon Sales Dashboard
+
+## 📁 Project Overview
+
+This project is part of my Data Analyst Internship (Task 4: Dashboard Design).  
+The objective was to design an **interactive dashboard** using **Power BI** that provides meaningful insights into sales and profit data to help business stakeholders make informed decisions.
+
+---
+
+## 🛠 Tools Used
+
+- **Power BI Desktop**
+- Dataset: Public sales/financial dataset simulating Amazon's sales data (sourced from Kaggle)
+
+---
+
+## ✅ Key Features of the Dashboard
+
+- 💰 **Total Sales and Profit Cards**
+- 📈 **Time-Series Analysis**: Sales and profit trends over months
+- 🛒 **Sales by Category, Sub-Category, and Product**
+- 🌍 **Sales by Region**
+- 📊 **Profitability Overview**
+- 🎛️ **Slicers/Filters** for interactivity:
+  - Region
+  - Product Category
+  - Date Range
+- 🎨 **Consistent color theme** and professional layout
+
+---
+
+## 📷 Dashboard Screenshots
+
+> Add screenshots of your dashboard here  
+> (e.g., `screenshot1.png`, `screenshot2.png`)
+
+---
+
+## 📌 Insights Highlighted
+
+- Top-performing product categories
+- Most profitable regions
+- Monthly trends in revenue and profit
+- Areas needing attention due to low sales or negative profit
+
+---
+
+## 📄 Files Included
+
+- `Amazon Sales Dashboard.pbix` – The Power BI dashboard file
+- `Screenshots/` – Folder containing snapshots of the dashboard
+- `README.md` – This readme file
+
+---
+
+## 📞 Contact
+
+For any queries related to this dashboard or internship task, feel free to connect.
+
+---
